@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>独热编码.png</file>
+    <file>导出.png</file>
+    <file>分类模型评估.png</file>
+    <file>模型预测.png</file>
+    <file>开始.png</file>
+    <file>开始所有轮询.png</file>
+    <file>删除.png</file>
+    <file>pca-选中.png</file>
+    <file>数据标准化.png</file>
+    <file>数据归一化.png</file>
+    <file>特征选择.png</file>
+    <file>file.png</file>
+  </qresource>
+</RCC>
